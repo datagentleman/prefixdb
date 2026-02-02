@@ -9,8 +9,8 @@ and crypto applications.
 # Supported Data Structures
 
 * **Bucket** – store key/value pairs
-* **Hashe** – store nested key/value data
-* **Array** – simple fixed-size data structures
+* **Hash**   – store nested key/value data
+* **Array**  – simple fixed-size data structures
 
 
 # Transactions
